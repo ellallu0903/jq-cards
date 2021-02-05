@@ -1,6 +1,15 @@
-# 泰山職訓前端班翻牌配對小遊戲作業
-發揮創意美化你上課完成的小遊戲，並試著加入更多功能  
+### 預覽：
 
-## 注意
-請盡量使用上課教的 GUI 工具或 git 指令繳交作業  
-若使用 GitHub 網頁進行 commit 會依次數扣分
+![Card 🐻](https://i.imgur.com/SPXPA8Q.png)
+
+### DEMO：[Card 🐻](https://ellallu0903.github.io/jq-cards/20201012_HW_Cards.html)
+
+### 圖片來源：
+
+- [大熊](https://pin.it/3455txi 'Pinterest')
+- [熊爪](https://pin.it/rDfNDsv 'Pinterest')
+- [音樂按鈕](https://www.pinterest.com/pin/650066527459871365/ 'Pinterest')
+- [卡牌](https://www.jessica-roux.com/woodland-wardens/her9ms46ej15nx2m9wdaoedape8347 ' Jessica Roux')
+- [背景圖](https://www.pexels.com/zh-tw/photo/21008/ 'Pexels')
+
+### 背景音樂：[위러브(WELOVE) - 공감하시네 Empathize⎪piano cover (Kor/Eng)](https://www.youtube.com/watch?v=y5O28PuLs8U 'Youtube')
